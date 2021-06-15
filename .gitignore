@@ -58,5 +58,8 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# Allow Releases/ packages
+!/[Rr]eleases/**/*.unitypackage
+
 # Crashlytics generated file
 crashlytics-build.properties
